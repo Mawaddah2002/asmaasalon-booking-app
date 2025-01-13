@@ -41,9 +41,6 @@ Asmaa Salon is a mobile application designed to simplify booking and paying for 
    - View the invoice summary in "Book Appointment Activity."  
    - Confirm the appointment and display a "Thank You" message.  
 
-📹 Demo Video  
-[Watch the Demo](videos/demo.mp4)
-
 📚 Lessons Learned 
 - The importance of intuitive user interfaces in mobile applications.  
 - Validating user input to ensure smooth and error-free operations.  
